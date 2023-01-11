@@ -1,0 +1,6 @@
+Jest to program, który ma być dziennikiem ucznia, w którym można wstawiać oceny od 1 do 6,
+oraz: 3-, 4-, 5 – i 2+, 3+, 4+, 5+. Zapisuje on także oceeny do osobnych plików tekstowych.
+W jednym mamy same oceny, a w drugim pliku audytowym oceny wraz z data i godzina ich wystawienia.
+Program można odpalić z konsoli lub terminalu VSC.
+Po uruchomieniu aplikacji ukażę się nam menu, w którym będą opisane dostępne opcje działania.
+

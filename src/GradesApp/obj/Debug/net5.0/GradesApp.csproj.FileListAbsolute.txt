@@ -1,0 +1,16 @@
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.exe
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.deps.json
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.runtimeconfig.json
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.dll
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\bin\Debug\net5.0\GradesApp.pdb
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.dll
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\refint\GradesApp.dll
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.pdb
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\GradesApp.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\GradesApp\src\GradesApp\obj\Debug\net5.0\ref\GradesApp.dll

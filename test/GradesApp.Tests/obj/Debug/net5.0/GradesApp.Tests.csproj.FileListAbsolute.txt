@@ -1,0 +1,5 @@
+C:\Users\Szymon\Desktop\GradesApp\test\GradesApp.Tests\obj\Debug\net5.0\GradesApp.Tests.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\GradesApp\test\GradesApp.Tests\obj\Debug\net5.0\GradesApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\GradesApp\test\GradesApp.Tests\obj\Debug\net5.0\GradesApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\GradesApp\test\GradesApp.Tests\obj\Debug\net5.0\GradesApp.Tests.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\GradesApp\test\GradesApp.Tests\obj\Debug\net5.0\GradesApp.Tests.csproj.CoreCompileInputs.cache
